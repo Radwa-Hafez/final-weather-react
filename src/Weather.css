@@ -39,4 +39,6 @@
   color: rgb(33, 33, 33);
   margin-left: 5px;
   line-height: 1;
+  position: relative;
+  top: -30px;
 }
